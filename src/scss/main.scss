@@ -1,0 +1,15 @@
+@import 'reset.scss';
+/*/////////////// layout ///////////////*/
+.container {
+	max-width: 1100px;
+	margin: auto;
+	position: relative;
+}
+
+
+/*//////////////// header /////////////////*/
+.header {
+	-webkit-box-shadow: 0 0 8px rgba(0,0,0,.3);
+	        box-shadow: 0 0 8px rgba(0,0,0,.3);
+	min-height: 138px;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "franch",
+  "description": "",
+  "main": "",
+  "authors": [
+    "bahuzz <dbahuzz@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bahuzz/franchbook",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
